@@ -52,7 +52,7 @@ Before you begin, ensure you have the following:
 - Customizable prompt format.
 - Sentence-based TTS for natural conversation flow.
 
-## Smaple Video
+## Sample Video
 https://m.youtube.com/watch?v=TrOsG4jnSNw&t=5s 
 
 ## Contributing
