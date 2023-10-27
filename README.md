@@ -68,9 +68,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - [OpenAI](https://openai.com/) for the GPT-3 model.
 - Python community and open-source contributors.
-
-For inquiries or support, please contact [your@email.com](mailto:your@email.com).
-
----
-
-Make sure to replace the placeholders with your specific information and customize the README as needed. Once your GitHub repository is set up, you can commit and push your code to make it accessible to others.
+- LM Studio for Local Server Inference
