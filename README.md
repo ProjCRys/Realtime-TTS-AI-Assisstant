@@ -28,7 +28,7 @@ Before you begin, ensure you have the following:
 
    ```python
    openai.api_base = 'http://localhost:1234/v1'  # Update with your API endpoint
-   openai.api_key = 'YOUR_API_KEY'  # Replace with your API key or simply leave it emoty for local language models
+   openai.api_key = 'YOUR_API_KEY'  # Replace with your API key or simply leave it empty for local language models
    ```
 
 3. Create a `context.txt` file and provide system prompt for the assistant.
