@@ -17,7 +17,7 @@ Before you begin, ensure you have the following:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/Realtime-TTS-Assistant.git
+   git clone https://github.com/your-username/Realtime-TTS-Assistant.git](https://github.com/ProjCRys/Realtime-TTS-Assisstant.git
    cd Realtime-TTS-Assistant
    ```
 
