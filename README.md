@@ -11,7 +11,8 @@ Before you begin, ensure you have the following:
   - `openai`
   - `pyttsx3`
   - `nltk`
-
+- LM Studio
+  
 ## Setup
 
 1. Clone this repository:
@@ -21,23 +22,23 @@ Before you begin, ensure you have the following:
    cd Realtime-TTS-Assistant
    ```
 
-2. Configure OpenAI API settings in the script:
+2. Configure OpenAI API settings or you can use local host for local language models in the script:
 
    - Set the API base and key in the script:
 
    ```python
    openai.api_base = 'http://localhost:1234/v1'  # Update with your API endpoint
-   openai.api_key = 'YOUR_API_KEY'  # Replace with your API key
+   openai.api_key = 'YOUR_API_KEY'  # Replace with your API key or simply leave it emoty for local language models
    ```
 
-3. Create a `context.txt` file and provide context for the assistant.
+3. Create a `context.txt` file and provide system prompt for the assistant.
 
 4. Customize prompt format by modifying the `prefix` and `suffix` variables as needed.
 
 5. Run the script:
 
    ```bash
-   python realtime_tts.py
+   python lmStudio_to_TTS.py
    ```
 
 ## Usage
